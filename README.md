@@ -1,10 +1,9 @@
 # NBA Rookie Analysis in Python
 
-Thank you for the project details! Let’s structure it into a formal report using the STAR framework.
 
-Project Report: NBA Rookie Analysis and Future Success Prediction
+### Project Report: NBA Rookie Analysis and Future Success Prediction
 
-Introduction
+## Introduction
 
 This project focuses on analyzing the performance of NBA rookies using historical data. The aim was to identify key trends in rookie statistics and predict future success based on specific metrics. By evaluating points, rebounds, assists, and other critical performance indicators, the project sought to model career trajectories and highlight the potential of standout players. Insights derived from this analysis could be used to better understand rookie development and aid in forecasting future stars in the NBA.
 
